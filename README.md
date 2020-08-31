@@ -1,3 +1,3 @@
 # **WELCOME!**
 #### 1. I have no idea what to type
-![Image of Table Tennis](istockphoto-502189498-612x612 (1).jpg)
+![Image of Table Tennis](https://www.istockphoto.com/photo/table-tennis-ball-and-bat-gm502189498-81766735)
