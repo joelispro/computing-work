@@ -17,3 +17,4 @@
 ### - Patient
 ### - Kind
 ### - Loves to crack jokes
+![Image of Understanding](https://valleybusinessreport.com/wp-content/uploads/2018/04/ActiveListening.jpg)
