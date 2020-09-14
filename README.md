@@ -7,6 +7,6 @@
 
 
 ### Ms Low:
-##### -Understanding
-##### -Patient
-##### -**Funny**
+### -Understanding
+### -Patient
+### -**Funny**
