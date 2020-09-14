@@ -18,4 +18,4 @@
 ### - Kind
 ### - Loves to crack jokes
 from microbit import *
-display.show(HAPPY)
+display.show(Image.HAPPY)
