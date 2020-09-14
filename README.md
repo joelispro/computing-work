@@ -17,5 +17,3 @@
 ### - Patient
 ### - Kind
 ### - Loves to crack jokes
-from microbit import *
-display.show(Image.HAPPY)
