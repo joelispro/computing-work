@@ -8,5 +8,12 @@
 
 ### Ms Low:
 ### - Understanding
+### - Disciplined
+### - Listen to our problems
+### - Loves to tell stories
+
+### Mr zhao:
+### - Funny
 ### - Patient
-### - '**Funny**'
+### - Kind
+### - Likes to crack jokes
